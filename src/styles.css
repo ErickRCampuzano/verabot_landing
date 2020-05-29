@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #5cdb95;
+  color: #edf5e1;
+  font-family: "Helvetica", sans-serif;
+}
+
+.navbar-brand,
+.navbar-nav .nav-item .nav-link {
+  color: #05366b !important;
+  font-family: "Helvetica", sans-serif;
+}
+
+.header-text {
+  top: 10%;
+}
+
+.NuestrosServicios {
+  background-color: #edf5e1;
+}
+.NuestrosServicios h1 {
+  color: #05366b;
+}
